@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-26T15:42:52 IST" name="Default suite" finished-at="2025-12-26T15:44:14 IST" duration-ms="82128">
+    <groups>
+    </groups>
+    <test started-at="2025-12-26T15:42:52 IST" name="Default test" finished-at="2025-12-26T15:44:14 IST" duration-ms="82128">
+      <class name="com.JPetStore.Test.RegistrationTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.JPetStore.Test.RegistrationTest@7d8704ef]" started-at="2025-12-26T15:42:52 IST" name="setup" finished-at="2025-12-26T15:42:56 IST" duration-ms="3703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Regis()[pri:0, instance:com.JPetStore.Test.RegistrationTest@7d8704ef]" started-at="2025-12-26T15:42:56 IST" name="Regis" finished-at="2025-12-26T15:42:58 IST" duration-ms="1792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Regis -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.JPetStore.Test.RegistrationTest@7d8704ef]" started-at="2025-12-26T15:42:58 IST" name="tearDown" finished-at="2025-12-26T15:42:58 IST" duration-ms="132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.JPetStore.Test.RegistrationTest -->
+      <class name="com.JPetStore.Test.DogsOrderTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.JPetStore.Test.DogsOrderTests@1e66f1f5]" started-at="2025-12-26T15:42:58 IST" name="setup" finished-at="2025-12-26T15:43:00 IST" duration-ms="2139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyDog()[pri:0, instance:com.JPetStore.Test.DogsOrderTests@1e66f1f5]" started-at="2025-12-26T15:43:00 IST" name="verifyDog" finished-at="2025-12-26T15:43:09 IST" duration-ms="9192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDog -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.JPetStore.Test.DogsOrderTests@1e66f1f5]" started-at="2025-12-26T15:43:09 IST" name="tearDown" finished-at="2025-12-26T15:43:09 IST" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.JPetStore.Test.DogsOrderTests -->
+      <class name="com.JPetStore.Test.BirdsOrderTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.JPetStore.Test.BirdsOrderTest@4e50c791]" started-at="2025-12-26T15:43:09 IST" name="setup" finished-at="2025-12-26T15:43:11 IST" duration-ms="2144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyBirdTest()[pri:0, instance:com.JPetStore.Test.BirdsOrderTest@4e50c791]" started-at="2025-12-26T15:43:11 IST" name="verifyBirdTest" finished-at="2025-12-26T15:43:15 IST" duration-ms="3658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBirdTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.JPetStore.Test.BirdsOrderTest@4e50c791]" started-at="2025-12-26T15:43:15 IST" name="tearDown" finished-at="2025-12-26T15:43:15 IST" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.JPetStore.Test.BirdsOrderTest -->
+      <class name="com.JPetStore.Test.ReptileOrderTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.JPetStore.Test.ReptileOrderTest@58a9760d]" started-at="2025-12-26T15:43:26 IST" name="setup" finished-at="2025-12-26T15:43:28 IST" duration-ms="2069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyReptiles()[pri:0, instance:com.JPetStore.Test.ReptileOrderTest@58a9760d]" started-at="2025-12-26T15:43:28 IST" name="verifyReptiles" finished-at="2025-12-26T15:43:32 IST" duration-ms="3692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyReptiles -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.JPetStore.Test.ReptileOrderTest@58a9760d]" started-at="2025-12-26T15:43:32 IST" name="tearDown" finished-at="2025-12-26T15:43:32 IST" duration-ms="110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.JPetStore.Test.ReptileOrderTest -->
+      <class name="com.JPetStore.Test.FishOrderTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.JPetStore.Test.FishOrderTest@7530ad9c]" started-at="2025-12-26T15:43:15 IST" name="setup" finished-at="2025-12-26T15:43:17 IST" duration-ms="2093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyFish()[pri:0, instance:com.JPetStore.Test.FishOrderTest@7530ad9c]" started-at="2025-12-26T15:43:17 IST" name="verifyFish" finished-at="2025-12-26T15:43:26 IST" duration-ms="9110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFish -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.JPetStore.Test.FishOrderTest@7530ad9c]" started-at="2025-12-26T15:43:26 IST" name="tearDown" finished-at="2025-12-26T15:43:26 IST" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.JPetStore.Test.FishOrderTest -->
+      <class name="com.JPetStore.Test.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.JPetStore.Test.LoginTest@4961f6af]" started-at="2025-12-26T15:44:03 IST" name="setup" finished-at="2025-12-26T15:44:05 IST" duration-ms="2154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginVerify()[pri:0, instance:com.JPetStore.Test.LoginTest@4961f6af]" started-at="2025-12-26T15:44:05 IST" name="loginVerify" finished-at="2025-12-26T15:44:06 IST" duration-ms="978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginVerify -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.JPetStore.Test.LoginTest@4961f6af]" started-at="2025-12-26T15:44:06 IST" name="tearDown" finished-at="2025-12-26T15:44:06 IST" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.JPetStore.Test.LoginTest -->
+      <class name="com.JPetStore.Test.BillOrder">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.JPetStore.Test.BillOrder@71e9ddb4]" started-at="2025-12-26T15:43:32 IST" name="setup" finished-at="2025-12-26T15:43:34 IST" duration-ms="2101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="FinalTest()[pri:0, instance:com.JPetStore.Test.BillOrder@71e9ddb4]" started-at="2025-12-26T15:43:34 IST" name="FinalTest" finished-at="2025-12-26T15:44:03 IST" duration-ms="28523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FinalTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.JPetStore.Test.BillOrder@71e9ddb4]" started-at="2025-12-26T15:44:03 IST" name="tearDown" finished-at="2025-12-26T15:44:03 IST" duration-ms="115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.JPetStore.Test.BillOrder -->
+      <class name="com.JPetStore.Test.CatsOrderTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.JPetStore.Test.CatsOrderTest@5aebe890]" started-at="2025-12-26T15:44:06 IST" name="setup" finished-at="2025-12-26T15:44:08 IST" duration-ms="2134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyCat()[pri:0, instance:com.JPetStore.Test.CatsOrderTest@5aebe890]" started-at="2025-12-26T15:44:08 IST" name="verifyCat" finished-at="2025-12-26T15:44:14 IST" duration-ms="5664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCat -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.JPetStore.Test.CatsOrderTest@5aebe890]" started-at="2025-12-26T15:44:14 IST" name="tearDown" finished-at="2025-12-26T15:44:14 IST" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.JPetStore.Test.CatsOrderTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

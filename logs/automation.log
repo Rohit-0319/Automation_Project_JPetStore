@@ -1,0 +1,1302 @@
+2025-12-21 15:53:23 INFO  Log - ======================================
+2025-12-21 15:53:23 INFO  Log - TEST STARTED : Browser Setup
+2025-12-21 15:53:23 INFO  Log - ======================================
+2025-12-21 15:53:23 INFO  Log - Loading config file
+2025-12-21 15:53:23 INFO  Log - Browser selected: chrome
+2025-12-21 15:53:23 INFO  Log - Launching Chrome browser
+2025-12-21 15:53:24 INFO  Log - Maximizing browser window
+2025-12-21 15:53:24 INFO  Log - Navigating to URL: https://petstore.octoperf.com/actions/Catalog.action
+2025-12-21 15:53:26 INFO  Log - Testing the Login Module
+2025-12-21 15:53:26 INFO  Log - Click on Signin Button..
+2025-12-21 15:53:26 INFO  Log - Entering username through loggerUtil
+2025-12-21 15:53:26 INFO  Log - Entering password
+2025-12-21 15:53:26 INFO  Log - Clicking on Login Butoon
+2025-12-21 15:53:27 INFO  Log - Bird Module is Starting here
+2025-12-21 15:53:27 INFO  Log - Clicking on Birds
+2025-12-21 15:53:27 INFO  Log - Getting Current URL of the Birds website
+2025-12-21 15:53:27 INFO  Log - Validating the URL of Birds page by using Assertion 
+2025-12-21 15:53:27 INFO  Log - Clicking On Amazon Parrot Link to order That
+2025-12-21 15:53:28 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:53:28 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:53:28 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 15:53:28 INFO  Log - Again Clicking on Bird to Order
+2025-12-21 15:53:29 INFO  Log - Clicking on finch Bird Option
+2025-12-21 15:53:29 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:53:29 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:53:29 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 15:53:30 INFO  Log - Bird Module is Completed Here
+2025-12-21 15:53:30 INFO  Log - Closing browser
+2025-12-21 15:53:30 INFO  Log - Browser closed successfully
+2025-12-21 15:53:30 INFO  Log - ======================================
+2025-12-21 15:53:30 INFO  Log - TEST ENDED : Browser Setup
+2025-12-21 15:53:30 INFO  Log - ======================================
+2025-12-21 15:53:30 INFO  Log - ======================================
+2025-12-21 15:53:30 INFO  Log - TEST STARTED : Browser Setup
+2025-12-21 15:53:30 INFO  Log - ======================================
+2025-12-21 15:53:30 INFO  Log - Loading config file
+2025-12-21 15:53:30 INFO  Log - Browser selected: chrome
+2025-12-21 15:53:30 INFO  Log - Launching Chrome browser
+2025-12-21 15:53:31 INFO  Log - Maximizing browser window
+2025-12-21 15:53:31 INFO  Log - Navigating to URL: https://petstore.octoperf.com/actions/Catalog.action
+2025-12-21 15:53:32 INFO  Log - ======================================
+2025-12-21 15:53:32 INFO  Log - TEST STARTED : Login Test
+2025-12-21 15:53:32 INFO  Log - ======================================
+2025-12-21 15:53:32 INFO  Log - Test case Started
+2025-12-21 15:53:32 INFO  Log - Testing the Login Module
+2025-12-21 15:53:32 INFO  Log - Click on Signin Button..
+2025-12-21 15:53:32 INFO  Log - Entering username through loggerUtil
+2025-12-21 15:53:32 INFO  Log - Entering password
+2025-12-21 15:53:32 INFO  Log - Clicking on Login Butoon
+2025-12-21 15:53:33 INFO  Log - ======================================
+2025-12-21 15:53:33 INFO  Log - TEST ENDED : Login test ends here..
+2025-12-21 15:53:33 INFO  Log - ======================================
+2025-12-21 15:53:33 INFO  Log - Closing browser
+2025-12-21 15:53:33 INFO  Log - Browser closed successfully
+2025-12-21 15:53:33 INFO  Log - ======================================
+2025-12-21 15:53:33 INFO  Log - TEST ENDED : Browser Setup
+2025-12-21 15:53:33 INFO  Log - ======================================
+2025-12-21 15:53:33 INFO  Log - ======================================
+2025-12-21 15:53:33 INFO  Log - TEST STARTED : Browser Setup
+2025-12-21 15:53:33 INFO  Log - ======================================
+2025-12-21 15:53:33 INFO  Log - Loading config file
+2025-12-21 15:53:33 INFO  Log - Browser selected: chrome
+2025-12-21 15:53:33 INFO  Log - Launching Chrome browser
+2025-12-21 15:53:34 INFO  Log - Maximizing browser window
+2025-12-21 15:53:34 INFO  Log - Navigating to URL: https://petstore.octoperf.com/actions/Catalog.action
+2025-12-21 15:53:35 INFO  Log - Testing the Login Module
+2025-12-21 15:53:35 INFO  Log - Click on Signin Button..
+2025-12-21 15:53:35 INFO  Log - Entering username through loggerUtil
+2025-12-21 15:53:35 INFO  Log - Entering password
+2025-12-21 15:53:35 INFO  Log - Clicking on Login Butoon
+2025-12-21 15:53:36 INFO  Log - Testing Dog Order Module
+2025-12-21 15:53:36 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-21 15:53:36 INFO  Log - Getting the curerent Url of the website
+2025-12-21 15:53:36 INFO  Log - Validating the URl of the module by using Assert
+2025-12-21 15:53:36 INFO  Log - URL Is matched
+2025-12-21 15:53:36 INFO  Log - Clicking on Bull Dog Option
+2025-12-21 15:53:36 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:53:37 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:53:37 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 15:53:37 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-21 15:53:37 INFO  Log - Clicking on Poodle Dog Option
+2025-12-21 15:53:38 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:53:38 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:53:38 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 15:53:39 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-21 15:53:39 INFO  Log - Clicking on Dalmation Dog Option
+2025-12-21 15:53:39 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:53:39 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:53:40 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 15:53:40 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-21 15:53:40 INFO  Log - Clicking on Golden Retreiver Dog Option
+2025-12-21 15:53:41 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:53:41 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:53:41 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 15:53:41 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-21 15:53:42 INFO  Log - Clicking on Labrador Dog Option
+2025-12-21 15:53:42 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:53:42 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:53:43 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 15:53:43 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-21 15:53:44 INFO  Log - Clicking on Chihuahua Dog Option
+2025-12-21 15:53:44 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:53:44 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:53:45 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 15:53:45 INFO  Log - Dog Module is completed here
+2025-12-21 15:53:45 INFO  Log - Bird Module is Starting here
+2025-12-21 15:53:45 INFO  Log - Clicking on Birds
+2025-12-21 15:53:46 INFO  Log - Getting Current URL of the Birds website
+2025-12-21 15:53:46 INFO  Log - Validating the URL of Birds page by using Assertion 
+2025-12-21 15:53:46 INFO  Log - Clicking On Amazon Parrot Link to order That
+2025-12-21 15:53:46 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:53:47 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:53:47 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 15:53:47 INFO  Log - Again Clicking on Bird to Order
+2025-12-21 15:53:48 INFO  Log - Clicking on finch Bird Option
+2025-12-21 15:53:48 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:53:48 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:53:48 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 15:53:49 INFO  Log - Bird Module is Completed Here
+2025-12-21 15:53:49 INFO  Log - Testing the Fish Order Module
+2025-12-21 15:53:49 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-21 15:53:49 INFO  Log - Getting the curerent Url of the website
+2025-12-21 15:53:49 INFO  Log - Validating the URl of the module by using Assert
+2025-12-21 15:53:49 INFO  Log - URL Is matched
+2025-12-21 15:53:49 INFO  Log - Clicking on A-FISH Option
+2025-12-21 15:53:49 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:53:50 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:53:50 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-21 15:53:50 INFO  Log - Clicking on A-FISH Option
+2025-12-21 15:53:50 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:53:51 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:53:51 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-21 15:53:51 INFO  Log - Clicking on Tiger Shark Option
+2025-12-21 15:53:51 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:53:52 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:53:52 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-21 15:53:52 INFO  Log - Clicking on KOI-FISH Option
+2025-12-21 15:53:53 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:53:53 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:53:53 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-21 15:53:53 INFO  Log - Clicking on KOI-FISH Option
+2025-12-21 15:53:54 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:53:54 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:53:54 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-21 15:53:55 INFO  Log - Clicking on Golden FISH Option
+2025-12-21 15:53:55 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:53:55 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:53:55 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-21 15:53:56 INFO  Log - Clicking on Golden FISH Option
+2025-12-21 15:53:56 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:53:56 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:53:57 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 15:53:57 INFO  Log - Fish Order Module is completed Here
+2025-12-21 15:53:57 INFO  Log - Testing the reptiles order module
+2025-12-21 15:53:57 INFO  Log - Clicking on Reptile option
+2025-12-21 15:53:57 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 15:53:57 INFO  Log - Validating the URl of the module by using Assert
+2025-12-21 15:53:57 INFO  Log - URL Is matched
+2025-12-21 15:53:57 INFO  Log - Clicking on Rattle snake Option
+2025-12-21 15:53:57 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:53:58 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:53:59 INFO  Log - Clicking on Igguana Option
+2025-12-21 15:53:59 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:53:59 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:53:59 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 15:54:00 INFO  Log - Reptiles order Module is complete here
+2025-12-21 15:54:00 INFO  Log - Testing Cat Order Module
+2025-12-21 15:54:00 INFO  Log - Clicking on cat Option
+2025-12-21 15:54:00 INFO  Log - Getting the curerent Url of the website
+2025-12-21 15:54:00 INFO  Log - Validating the URl of the module by using Assert
+2025-12-21 15:54:00 INFO  Log - URL Is matched
+2025-12-21 15:54:00 INFO  Log - Clicking on Manx Cat Option
+2025-12-21 15:54:00 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:54:01 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:54:01 INFO  Log - Clicking on cat Option
+2025-12-21 15:54:01 INFO  Log - Clicking on Manx Cat Option
+2025-12-21 15:54:01 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:54:02 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:54:02 INFO  Log - Clicking on cat Option
+2025-12-21 15:54:02 INFO  Log - Clicking on Persian Cat Option
+2025-12-21 15:54:02 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:54:03 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:54:03 INFO  Log - Clicking on cat Option
+2025-12-21 15:54:03 INFO  Log - Clicking on Persian Cat Option
+2025-12-21 15:54:04 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:54:04 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:54:04 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 15:54:04 INFO  Log - Cat Module is completed Here
+2025-12-21 15:54:06 INFO  Log - Closing browser
+2025-12-21 15:54:07 INFO  Log - Browser closed successfully
+2025-12-21 15:54:07 INFO  Log - ======================================
+2025-12-21 15:54:07 INFO  Log - TEST ENDED : Browser Setup
+2025-12-21 15:54:07 INFO  Log - ======================================
+2025-12-21 15:54:07 INFO  Log - ======================================
+2025-12-21 15:54:07 INFO  Log - TEST STARTED : Browser Setup
+2025-12-21 15:54:07 INFO  Log - ======================================
+2025-12-21 15:54:07 INFO  Log - Loading config file
+2025-12-21 15:54:07 INFO  Log - Browser selected: chrome
+2025-12-21 15:54:07 INFO  Log - Launching Chrome browser
+2025-12-21 15:54:07 INFO  Log - Maximizing browser window
+2025-12-21 15:54:07 INFO  Log - Navigating to URL: https://petstore.octoperf.com/actions/Catalog.action
+2025-12-21 15:54:09 INFO  Log - Testing the Registration Module
+2025-12-21 15:54:09 INFO  Log - Clicking on signin Button
+2025-12-21 15:54:09 INFO  Log - Clicking on register button
+2025-12-21 15:54:09 INFO  Log - Sending the Usename as Rohit in username textbox
+2025-12-21 15:54:09 INFO  Log - Sending the Password as admin123 in RepeatPassword Textbox
+2025-12-21 15:54:09 INFO  Log - Sending the first name as Rohit
+2025-12-21 15:54:09 INFO  Log - Sending the last name as Kumar
+2025-12-21 15:54:09 INFO  Log - Sending the email as rohit123@gmail.com
+2025-12-21 15:54:10 INFO  Log - Sending the phone no as 893678213
+2025-12-21 15:54:10 INFO  Log - Sending the Data as Telco Colony in Address Line 1 Textbox
+2025-12-21 15:54:10 INFO  Log - Sending the Data as House no-23 in Address line 2 Textbox
+2025-12-21 15:54:10 INFO  Log - Sending the data as Jamshedpur in city Textbox
+2025-12-21 15:54:10 INFO  Log - Sending the Data as Jharkhand in State Textbox
+2025-12-21 15:54:10 INFO  Log - Sending the value as 867881 in Zipcode Textbox
+2025-12-21 15:54:10 INFO  Log - Sending the Country as India in Country Textbox
+2025-12-21 15:54:10 INFO  Log - Clicking on submit button
+2025-12-21 15:54:10 INFO  Log - Closing browser
+2025-12-21 15:54:10 INFO  Log - Browser closed successfully
+2025-12-21 15:54:10 INFO  Log - ======================================
+2025-12-21 15:54:10 INFO  Log - TEST ENDED : Browser Setup
+2025-12-21 15:54:10 INFO  Log - ======================================
+2025-12-21 15:54:10 INFO  Log - ======================================
+2025-12-21 15:54:10 INFO  Log - TEST STARTED : Browser Setup
+2025-12-21 15:54:10 INFO  Log - ======================================
+2025-12-21 15:54:10 INFO  Log - Loading config file
+2025-12-21 15:54:10 INFO  Log - Browser selected: chrome
+2025-12-21 15:54:10 INFO  Log - Launching Chrome browser
+2025-12-21 15:54:11 INFO  Log - Maximizing browser window
+2025-12-21 15:54:11 INFO  Log - Navigating to URL: https://petstore.octoperf.com/actions/Catalog.action
+2025-12-21 15:54:12 INFO  Log - Testing the Login Module
+2025-12-21 15:54:12 INFO  Log - Click on Signin Button..
+2025-12-21 15:54:12 INFO  Log - Entering username through loggerUtil
+2025-12-21 15:54:12 INFO  Log - Entering password
+2025-12-21 15:54:13 INFO  Log - Clicking on Login Butoon
+2025-12-21 15:54:13 INFO  Log - Testing the Fish Order Module
+2025-12-21 15:54:13 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-21 15:54:13 INFO  Log - Getting the curerent Url of the website
+2025-12-21 15:54:13 INFO  Log - Validating the URl of the module by using Assert
+2025-12-21 15:54:13 INFO  Log - URL Is matched
+2025-12-21 15:54:13 INFO  Log - Clicking on A-FISH Option
+2025-12-21 15:54:14 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:54:14 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:54:14 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-21 15:54:14 INFO  Log - Clicking on A-FISH Option
+2025-12-21 15:54:15 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:54:15 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:54:15 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-21 15:54:15 INFO  Log - Clicking on Tiger Shark Option
+2025-12-21 15:54:16 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:54:16 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:54:16 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-21 15:54:17 INFO  Log - Clicking on KOI-FISH Option
+2025-12-21 15:54:17 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:54:17 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:54:17 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-21 15:54:18 INFO  Log - Clicking on KOI-FISH Option
+2025-12-21 15:54:18 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:54:18 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:54:18 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-21 15:54:19 INFO  Log - Clicking on Golden FISH Option
+2025-12-21 15:54:19 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:54:19 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:54:19 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-21 15:54:20 INFO  Log - Clicking on Golden FISH Option
+2025-12-21 15:54:20 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:54:20 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:54:20 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 15:54:21 INFO  Log - Closing browser
+2025-12-21 15:54:21 INFO  Log - Browser closed successfully
+2025-12-21 15:54:21 INFO  Log - ======================================
+2025-12-21 15:54:21 INFO  Log - TEST ENDED : Browser Setup
+2025-12-21 15:54:21 INFO  Log - ======================================
+2025-12-21 15:54:21 INFO  Log - ======================================
+2025-12-21 15:54:21 INFO  Log - TEST STARTED : Browser Setup
+2025-12-21 15:54:21 INFO  Log - ======================================
+2025-12-21 15:54:21 INFO  Log - Loading config file
+2025-12-21 15:54:21 INFO  Log - Browser selected: chrome
+2025-12-21 15:54:21 INFO  Log - Launching Chrome browser
+2025-12-21 15:54:21 INFO  Log - Maximizing browser window
+2025-12-21 15:54:21 INFO  Log - Navigating to URL: https://petstore.octoperf.com/actions/Catalog.action
+2025-12-21 15:54:22 INFO  Log - Testing the Login Module
+2025-12-21 15:54:22 INFO  Log - Click on Signin Button..
+2025-12-21 15:54:23 INFO  Log - Entering username through loggerUtil
+2025-12-21 15:54:23 INFO  Log - Entering password
+2025-12-21 15:54:23 INFO  Log - Clicking on Login Butoon
+2025-12-21 15:54:23 INFO  Log - Testing the reptiles order module
+2025-12-21 15:54:23 INFO  Log - Clicking on Reptile option
+2025-12-21 15:54:24 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 15:54:24 INFO  Log - Validating the URl of the module by using Assert
+2025-12-21 15:54:24 INFO  Log - URL Is matched
+2025-12-21 15:54:24 INFO  Log - Clicking on Rattle snake Option
+2025-12-21 15:54:24 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:54:24 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:54:25 INFO  Log - Clicking on Igguana Option
+2025-12-21 15:54:25 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:54:26 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:54:26 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 15:54:26 INFO  Log - Reptiles order Module is complete here
+2025-12-21 15:54:26 INFO  Log - Closing browser
+2025-12-21 15:54:26 INFO  Log - Browser closed successfully
+2025-12-21 15:54:26 INFO  Log - ======================================
+2025-12-21 15:54:26 INFO  Log - TEST ENDED : Browser Setup
+2025-12-21 15:54:26 INFO  Log - ======================================
+2025-12-21 15:54:26 INFO  Log - ======================================
+2025-12-21 15:54:26 INFO  Log - TEST STARTED : Browser Setup
+2025-12-21 15:54:26 INFO  Log - ======================================
+2025-12-21 15:54:26 INFO  Log - Loading config file
+2025-12-21 15:54:26 INFO  Log - Browser selected: chrome
+2025-12-21 15:54:26 INFO  Log - Launching Chrome browser
+2025-12-21 15:54:27 INFO  Log - Maximizing browser window
+2025-12-21 15:54:27 INFO  Log - Navigating to URL: https://petstore.octoperf.com/actions/Catalog.action
+2025-12-21 15:54:28 INFO  Log - Testing the Login Module
+2025-12-21 15:54:28 INFO  Log - Click on Signin Button..
+2025-12-21 15:54:28 INFO  Log - Entering username through loggerUtil
+2025-12-21 15:54:28 INFO  Log - Entering password
+2025-12-21 15:54:29 INFO  Log - Clicking on Login Butoon
+2025-12-21 15:54:29 INFO  Log - Testing Dog Order Module
+2025-12-21 15:54:29 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-21 15:54:29 INFO  Log - Getting the curerent Url of the website
+2025-12-21 15:54:29 INFO  Log - Validating the URl of the module by using Assert
+2025-12-21 15:54:29 INFO  Log - URL Is matched
+2025-12-21 15:54:29 INFO  Log - Clicking on Bull Dog Option
+2025-12-21 15:54:30 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:54:30 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:54:30 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 15:54:30 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-21 15:54:31 INFO  Log - Clicking on Poodle Dog Option
+2025-12-21 15:54:31 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:54:31 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:54:31 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 15:54:32 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-21 15:54:32 INFO  Log - Clicking on Dalmation Dog Option
+2025-12-21 15:54:32 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:54:32 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:54:33 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 15:54:33 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-21 15:54:33 INFO  Log - Clicking on Golden Retreiver Dog Option
+2025-12-21 15:54:34 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:54:34 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:54:34 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 15:54:34 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-21 15:54:35 INFO  Log - Clicking on Labrador Dog Option
+2025-12-21 15:54:35 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:54:35 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:54:35 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 15:54:36 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-21 15:54:36 INFO  Log - Clicking on Chihuahua Dog Option
+2025-12-21 15:54:36 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:54:36 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:54:37 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 15:54:37 INFO  Log - Dog Module is completed here
+2025-12-21 15:54:37 INFO  Log - Closing browser
+2025-12-21 15:54:37 INFO  Log - Browser closed successfully
+2025-12-21 15:54:37 INFO  Log - ======================================
+2025-12-21 15:54:37 INFO  Log - TEST ENDED : Browser Setup
+2025-12-21 15:54:37 INFO  Log - ======================================
+2025-12-21 15:54:37 INFO  Log - ======================================
+2025-12-21 15:54:37 INFO  Log - TEST STARTED : Browser Setup
+2025-12-21 15:54:37 INFO  Log - ======================================
+2025-12-21 15:54:37 INFO  Log - Loading config file
+2025-12-21 15:54:37 INFO  Log - Browser selected: chrome
+2025-12-21 15:54:37 INFO  Log - Launching Chrome browser
+2025-12-21 15:54:38 INFO  Log - Maximizing browser window
+2025-12-21 15:54:38 INFO  Log - Navigating to URL: https://petstore.octoperf.com/actions/Catalog.action
+2025-12-21 15:54:39 INFO  Log - Testing the Login Module
+2025-12-21 15:54:39 INFO  Log - Click on Signin Button..
+2025-12-21 15:54:39 INFO  Log - Entering username through loggerUtil
+2025-12-21 15:54:39 INFO  Log - Entering password
+2025-12-21 15:54:39 INFO  Log - Clicking on Login Butoon
+2025-12-21 15:54:40 INFO  Log - Testing Cat Order Module
+2025-12-21 15:54:40 INFO  Log - Clicking on cat Option
+2025-12-21 15:54:40 INFO  Log - Getting the curerent Url of the website
+2025-12-21 15:54:40 INFO  Log - Validating the URl of the module by using Assert
+2025-12-21 15:54:40 INFO  Log - URL Is matched
+2025-12-21 15:54:40 INFO  Log - Clicking on Manx Cat Option
+2025-12-21 15:54:41 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:54:41 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:54:41 INFO  Log - Clicking on cat Option
+2025-12-21 15:54:41 INFO  Log - Clicking on Manx Cat Option
+2025-12-21 15:54:42 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:54:42 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:54:42 INFO  Log - Clicking on cat Option
+2025-12-21 15:54:42 INFO  Log - Clicking on Persian Cat Option
+2025-12-21 15:54:43 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:54:43 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:54:43 INFO  Log - Clicking on cat Option
+2025-12-21 15:54:43 INFO  Log - Clicking on Persian Cat Option
+2025-12-21 15:54:44 INFO  Log - Clicking on Add to cart Option
+2025-12-21 15:54:44 INFO  Log - Clicking on update to update the cart
+2025-12-21 15:54:44 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 15:54:44 INFO  Log - Cat Module is completed Here
+2025-12-21 15:54:44 INFO  Log - Closing browser
+2025-12-21 15:54:45 INFO  Log - Browser closed successfully
+2025-12-21 15:54:45 INFO  Log - ======================================
+2025-12-21 15:54:45 INFO  Log - TEST ENDED : Browser Setup
+2025-12-21 15:54:45 INFO  Log - ======================================
+2025-12-21 16:00:44 INFO  Log - ======================================
+2025-12-21 16:00:44 INFO  Log - TEST STARTED : Browser Setup
+2025-12-21 16:00:44 INFO  Log - ======================================
+2025-12-21 16:00:44 INFO  Log - Loading config file
+2025-12-21 16:00:44 INFO  Log - Browser selected: chrome
+2025-12-21 16:00:44 INFO  Log - Launching Chrome browser
+2025-12-21 16:00:45 INFO  Log - Maximizing browser window
+2025-12-21 16:00:45 INFO  Log - Navigating to URL: https://petstore.octoperf.com/actions/Catalog.action
+2025-12-21 16:00:46 INFO  Log - Testing the Login Module
+2025-12-21 16:00:46 INFO  Log - Click on Signin Button..
+2025-12-21 16:00:47 INFO  Log - Entering username through loggerUtil
+2025-12-21 16:00:47 INFO  Log - Entering password
+2025-12-21 16:00:47 INFO  Log - Clicking on Login Butoon
+2025-12-21 16:00:47 INFO  Log - Bird Module is Starting here
+2025-12-21 16:00:47 INFO  Log - Clicking on Birds
+2025-12-21 16:00:48 INFO  Log - Getting Current URL of the Birds website
+2025-12-21 16:00:48 INFO  Log - Validating the URL of Birds page by using Assertion 
+2025-12-21 16:00:48 INFO  Log - Clicking On Amazon Parrot Link to order That
+2025-12-21 16:00:48 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:00:48 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:00:48 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 16:00:49 INFO  Log - Again Clicking on Bird to Order
+2025-12-21 16:00:49 INFO  Log - Clicking on finch Bird Option
+2025-12-21 16:00:49 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:00:50 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:00:50 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 16:00:50 INFO  Log - Bird Module is Completed Here
+2025-12-21 16:00:50 INFO  Log - Closing browser
+2025-12-21 16:00:50 INFO  Log - Browser closed successfully
+2025-12-21 16:00:50 INFO  Log - ======================================
+2025-12-21 16:00:50 INFO  Log - TEST ENDED : Browser Setup
+2025-12-21 16:00:50 INFO  Log - ======================================
+2025-12-21 16:00:50 INFO  Log - ======================================
+2025-12-21 16:00:50 INFO  Log - TEST STARTED : Browser Setup
+2025-12-21 16:00:50 INFO  Log - ======================================
+2025-12-21 16:00:50 INFO  Log - Loading config file
+2025-12-21 16:00:50 INFO  Log - Browser selected: chrome
+2025-12-21 16:00:50 INFO  Log - Launching Chrome browser
+2025-12-21 16:00:51 INFO  Log - Maximizing browser window
+2025-12-21 16:00:51 INFO  Log - Navigating to URL: https://petstore.octoperf.com/actions/Catalog.action
+2025-12-21 16:00:52 INFO  Log - ======================================
+2025-12-21 16:00:52 INFO  Log - TEST STARTED : Login Test
+2025-12-21 16:00:52 INFO  Log - ======================================
+2025-12-21 16:00:52 INFO  Log - Test case Started
+2025-12-21 16:00:52 INFO  Log - Testing the Login Module
+2025-12-21 16:00:52 INFO  Log - Click on Signin Button..
+2025-12-21 16:00:52 INFO  Log - Entering username through loggerUtil
+2025-12-21 16:00:52 INFO  Log - Entering password
+2025-12-21 16:00:52 INFO  Log - Clicking on Login Butoon
+2025-12-21 16:00:53 INFO  Log - ======================================
+2025-12-21 16:00:53 INFO  Log - TEST ENDED : Login test ends here..
+2025-12-21 16:00:53 INFO  Log - ======================================
+2025-12-21 16:00:53 INFO  Log - Closing browser
+2025-12-21 16:00:53 INFO  Log - Browser closed successfully
+2025-12-21 16:00:53 INFO  Log - ======================================
+2025-12-21 16:00:53 INFO  Log - TEST ENDED : Browser Setup
+2025-12-21 16:00:53 INFO  Log - ======================================
+2025-12-21 16:00:53 INFO  Log - ======================================
+2025-12-21 16:00:53 INFO  Log - TEST STARTED : Browser Setup
+2025-12-21 16:00:53 INFO  Log - ======================================
+2025-12-21 16:00:53 INFO  Log - Loading config file
+2025-12-21 16:00:53 INFO  Log - Browser selected: chrome
+2025-12-21 16:00:53 INFO  Log - Launching Chrome browser
+2025-12-21 16:00:54 INFO  Log - Maximizing browser window
+2025-12-21 16:00:54 INFO  Log - Navigating to URL: https://petstore.octoperf.com/actions/Catalog.action
+2025-12-21 16:00:55 INFO  Log - Testing the Login Module
+2025-12-21 16:00:55 INFO  Log - Click on Signin Button..
+2025-12-21 16:00:55 INFO  Log - Entering username through loggerUtil
+2025-12-21 16:00:55 INFO  Log - Entering password
+2025-12-21 16:00:55 INFO  Log - Clicking on Login Butoon
+2025-12-21 16:00:56 INFO  Log - Testing Dog Order Module
+2025-12-21 16:00:56 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-21 16:00:56 INFO  Log - Getting the curerent Url of the website
+2025-12-21 16:00:56 INFO  Log - Validating the URl of the module by using Assert
+2025-12-21 16:00:56 INFO  Log - URL Is matched
+2025-12-21 16:00:56 INFO  Log - Clicking on Bull Dog Option
+2025-12-21 16:00:56 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:00:57 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:00:57 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 16:00:57 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-21 16:00:58 INFO  Log - Clicking on Poodle Dog Option
+2025-12-21 16:00:58 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:00:58 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:00:58 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 16:00:59 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-21 16:00:59 INFO  Log - Clicking on Dalmation Dog Option
+2025-12-21 16:00:59 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:01:00 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:01:00 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 16:01:00 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-21 16:01:00 INFO  Log - Clicking on Golden Retreiver Dog Option
+2025-12-21 16:01:01 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:01:01 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:01:01 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 16:01:02 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-21 16:01:02 INFO  Log - Clicking on Labrador Dog Option
+2025-12-21 16:01:02 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:01:02 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:01:03 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 16:01:03 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-21 16:01:03 INFO  Log - Clicking on Chihuahua Dog Option
+2025-12-21 16:01:04 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:01:04 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:01:04 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 16:01:04 INFO  Log - Dog Module is completed here
+2025-12-21 16:01:04 INFO  Log - Bird Module is Starting here
+2025-12-21 16:01:04 INFO  Log - Clicking on Birds
+2025-12-21 16:01:05 INFO  Log - Getting Current URL of the Birds website
+2025-12-21 16:01:05 INFO  Log - Validating the URL of Birds page by using Assertion 
+2025-12-21 16:01:05 INFO  Log - Clicking On Amazon Parrot Link to order That
+2025-12-21 16:01:05 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:01:05 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:01:06 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 16:01:06 INFO  Log - Again Clicking on Bird to Order
+2025-12-21 16:01:06 INFO  Log - Clicking on finch Bird Option
+2025-12-21 16:01:06 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:01:07 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:01:07 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 16:01:07 INFO  Log - Bird Module is Completed Here
+2025-12-21 16:01:07 INFO  Log - Testing the Fish Order Module
+2025-12-21 16:01:07 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-21 16:01:08 INFO  Log - Getting the curerent Url of the website
+2025-12-21 16:01:08 INFO  Log - Validating the URl of the module by using Assert
+2025-12-21 16:01:08 INFO  Log - URL Is matched
+2025-12-21 16:01:08 INFO  Log - Clicking on A-FISH Option
+2025-12-21 16:01:08 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:01:08 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:01:08 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-21 16:01:09 INFO  Log - Clicking on A-FISH Option
+2025-12-21 16:01:09 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:01:09 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:01:09 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-21 16:01:10 INFO  Log - Clicking on Tiger Shark Option
+2025-12-21 16:01:10 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:01:10 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:01:11 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-21 16:01:11 INFO  Log - Clicking on KOI-FISH Option
+2025-12-21 16:01:11 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:01:11 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:01:12 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-21 16:01:12 INFO  Log - Clicking on KOI-FISH Option
+2025-12-21 16:01:12 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:01:13 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:01:13 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-21 16:01:13 INFO  Log - Clicking on Golden FISH Option
+2025-12-21 16:01:13 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:01:14 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:01:14 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-21 16:01:14 INFO  Log - Clicking on Golden FISH Option
+2025-12-21 16:01:15 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:01:15 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:01:15 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 16:01:16 INFO  Log - Fish Order Module is completed Here
+2025-12-21 16:01:16 INFO  Log - Testing the reptiles order module
+2025-12-21 16:01:16 INFO  Log - Clicking on Reptile option
+2025-12-21 16:01:16 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 16:01:16 INFO  Log - Validating the URl of the module by using Assert
+2025-12-21 16:01:16 INFO  Log - URL Is matched
+2025-12-21 16:01:16 INFO  Log - Clicking on Rattle snake Option
+2025-12-21 16:01:16 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:01:17 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:01:17 INFO  Log - Closing browser
+2025-12-21 16:01:17 INFO  Log - Browser closed successfully
+2025-12-21 16:01:17 INFO  Log - ======================================
+2025-12-21 16:01:17 INFO  Log - TEST ENDED : Browser Setup
+2025-12-21 16:01:17 INFO  Log - ======================================
+2025-12-21 16:01:17 INFO  Log - ======================================
+2025-12-21 16:01:17 INFO  Log - TEST STARTED : Browser Setup
+2025-12-21 16:01:17 INFO  Log - ======================================
+2025-12-21 16:01:17 INFO  Log - Loading config file
+2025-12-21 16:01:17 INFO  Log - Browser selected: chrome
+2025-12-21 16:01:17 INFO  Log - Launching Chrome browser
+2025-12-21 16:01:18 INFO  Log - Maximizing browser window
+2025-12-21 16:01:18 INFO  Log - Navigating to URL: https://petstore.octoperf.com/actions/Catalog.action
+2025-12-21 16:01:19 INFO  Log - Testing the Registration Module
+2025-12-21 16:01:19 INFO  Log - Clicking on signin Button
+2025-12-21 16:01:19 INFO  Log - Clicking on register button
+2025-12-21 16:01:19 INFO  Log - Sending the Usename as Rohit in username textbox
+2025-12-21 16:01:19 INFO  Log - Sending the Password as admin123 in RepeatPassword Textbox
+2025-12-21 16:01:19 INFO  Log - Sending the first name as Rohit
+2025-12-21 16:01:20 INFO  Log - Sending the last name as Kumar
+2025-12-21 16:01:20 INFO  Log - Sending the email as rohit123@gmail.com
+2025-12-21 16:01:20 INFO  Log - Sending the phone no as 893678213
+2025-12-21 16:01:20 INFO  Log - Sending the Data as Telco Colony in Address Line 1 Textbox
+2025-12-21 16:01:20 INFO  Log - Sending the Data as House no-23 in Address line 2 Textbox
+2025-12-21 16:01:20 INFO  Log - Sending the data as Jamshedpur in city Textbox
+2025-12-21 16:01:20 INFO  Log - Sending the Data as Jharkhand in State Textbox
+2025-12-21 16:01:20 INFO  Log - Sending the value as 867881 in Zipcode Textbox
+2025-12-21 16:01:20 INFO  Log - Sending the Country as India in Country Textbox
+2025-12-21 16:01:20 INFO  Log - Clicking on submit button
+2025-12-21 16:01:20 INFO  Log - Closing browser
+2025-12-21 16:01:20 INFO  Log - Browser closed successfully
+2025-12-21 16:01:20 INFO  Log - ======================================
+2025-12-21 16:01:20 INFO  Log - TEST ENDED : Browser Setup
+2025-12-21 16:01:20 INFO  Log - ======================================
+2025-12-21 16:01:20 INFO  Log - ======================================
+2025-12-21 16:01:20 INFO  Log - TEST STARTED : Browser Setup
+2025-12-21 16:01:20 INFO  Log - ======================================
+2025-12-21 16:01:20 INFO  Log - Loading config file
+2025-12-21 16:01:20 INFO  Log - Browser selected: chrome
+2025-12-21 16:01:20 INFO  Log - Launching Chrome browser
+2025-12-21 16:01:21 INFO  Log - Maximizing browser window
+2025-12-21 16:01:21 INFO  Log - Navigating to URL: https://petstore.octoperf.com/actions/Catalog.action
+2025-12-21 16:01:22 INFO  Log - Testing the Login Module
+2025-12-21 16:01:22 INFO  Log - Click on Signin Button..
+2025-12-21 16:01:22 INFO  Log - Entering username through loggerUtil
+2025-12-21 16:01:23 INFO  Log - Entering password
+2025-12-21 16:01:23 INFO  Log - Clicking on Login Butoon
+2025-12-21 16:01:23 INFO  Log - Testing the Fish Order Module
+2025-12-21 16:01:23 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-21 16:01:23 INFO  Log - Getting the curerent Url of the website
+2025-12-21 16:01:23 INFO  Log - Validating the URl of the module by using Assert
+2025-12-21 16:01:23 INFO  Log - URL Is matched
+2025-12-21 16:01:23 INFO  Log - Clicking on A-FISH Option
+2025-12-21 16:01:24 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:01:24 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:01:24 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-21 16:01:24 INFO  Log - Clicking on A-FISH Option
+2025-12-21 16:01:25 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:01:25 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:01:25 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-21 16:01:26 INFO  Log - Clicking on Tiger Shark Option
+2025-12-21 16:01:26 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:01:26 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:01:26 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-21 16:01:27 INFO  Log - Clicking on KOI-FISH Option
+2025-12-21 16:01:27 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:01:27 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:01:27 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-21 16:01:28 INFO  Log - Clicking on KOI-FISH Option
+2025-12-21 16:01:28 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:01:28 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:01:29 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-21 16:01:29 INFO  Log - Clicking on Golden FISH Option
+2025-12-21 16:01:29 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:01:29 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:01:30 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-21 16:01:30 INFO  Log - Clicking on Golden FISH Option
+2025-12-21 16:01:30 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:01:31 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:01:31 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 16:01:31 INFO  Log - Fish Order Module is completed Here
+2025-12-21 16:01:31 INFO  Log - Closing browser
+2025-12-21 16:01:31 INFO  Log - Browser closed successfully
+2025-12-21 16:01:31 INFO  Log - ======================================
+2025-12-21 16:01:31 INFO  Log - TEST ENDED : Browser Setup
+2025-12-21 16:01:31 INFO  Log - ======================================
+2025-12-21 16:01:31 INFO  Log - ======================================
+2025-12-21 16:01:31 INFO  Log - TEST STARTED : Browser Setup
+2025-12-21 16:01:31 INFO  Log - ======================================
+2025-12-21 16:01:31 INFO  Log - Loading config file
+2025-12-21 16:01:31 INFO  Log - Browser selected: chrome
+2025-12-21 16:01:31 INFO  Log - Launching Chrome browser
+2025-12-21 16:01:32 INFO  Log - Maximizing browser window
+2025-12-21 16:01:32 INFO  Log - Navigating to URL: https://petstore.octoperf.com/actions/Catalog.action
+2025-12-21 16:01:33 INFO  Log - Testing the Login Module
+2025-12-21 16:01:33 INFO  Log - Click on Signin Button..
+2025-12-21 16:01:33 INFO  Log - Entering username through loggerUtil
+2025-12-21 16:01:33 INFO  Log - Entering password
+2025-12-21 16:01:33 INFO  Log - Clicking on Login Butoon
+2025-12-21 16:01:34 INFO  Log - Testing the reptiles order module
+2025-12-21 16:01:34 INFO  Log - Clicking on Reptile option
+2025-12-21 16:01:34 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 16:01:34 INFO  Log - Validating the URl of the module by using Assert
+2025-12-21 16:01:34 INFO  Log - URL Is matched
+2025-12-21 16:01:34 INFO  Log - Clicking on Rattle snake Option
+2025-12-21 16:01:34 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:01:35 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:01:36 INFO  Log - Clicking on Igguana Option
+2025-12-21 16:01:36 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:01:36 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:01:36 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 16:01:37 INFO  Log - Reptiles order Module is complete here
+2025-12-21 16:01:37 INFO  Log - Closing browser
+2025-12-21 16:01:37 INFO  Log - Browser closed successfully
+2025-12-21 16:01:37 INFO  Log - ======================================
+2025-12-21 16:01:37 INFO  Log - TEST ENDED : Browser Setup
+2025-12-21 16:01:37 INFO  Log - ======================================
+2025-12-21 16:01:37 INFO  Log - ======================================
+2025-12-21 16:01:37 INFO  Log - TEST STARTED : Browser Setup
+2025-12-21 16:01:37 INFO  Log - ======================================
+2025-12-21 16:01:37 INFO  Log - Loading config file
+2025-12-21 16:01:37 INFO  Log - Browser selected: chrome
+2025-12-21 16:01:37 INFO  Log - Launching Chrome browser
+2025-12-21 16:01:37 INFO  Log - Maximizing browser window
+2025-12-21 16:01:38 INFO  Log - Navigating to URL: https://petstore.octoperf.com/actions/Catalog.action
+2025-12-21 16:01:39 INFO  Log - Testing the Login Module
+2025-12-21 16:01:39 INFO  Log - Click on Signin Button..
+2025-12-21 16:01:39 INFO  Log - Entering username through loggerUtil
+2025-12-21 16:01:39 INFO  Log - Entering password
+2025-12-21 16:01:39 INFO  Log - Clicking on Login Butoon
+2025-12-21 16:01:40 INFO  Log - Testing Dog Order Module
+2025-12-21 16:01:40 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-21 16:01:40 INFO  Log - Getting the curerent Url of the website
+2025-12-21 16:01:40 INFO  Log - Validating the URl of the module by using Assert
+2025-12-21 16:01:40 INFO  Log - URL Is matched
+2025-12-21 16:01:40 INFO  Log - Clicking on Bull Dog Option
+2025-12-21 16:01:40 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:01:41 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:01:41 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 16:01:41 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-21 16:01:41 INFO  Log - Clicking on Poodle Dog Option
+2025-12-21 16:01:42 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:01:42 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:01:42 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 16:01:42 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-21 16:01:43 INFO  Log - Clicking on Dalmation Dog Option
+2025-12-21 16:01:43 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:01:43 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:01:44 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 16:01:44 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-21 16:01:44 INFO  Log - Clicking on Golden Retreiver Dog Option
+2025-12-21 16:01:44 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:01:45 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:01:45 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 16:01:45 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-21 16:01:45 INFO  Log - Clicking on Labrador Dog Option
+2025-12-21 16:01:46 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:01:46 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:01:46 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 16:01:47 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-21 16:01:47 INFO  Log - Clicking on Chihuahua Dog Option
+2025-12-21 16:01:47 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:01:47 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:01:48 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 16:01:48 INFO  Log - Dog Module is completed here
+2025-12-21 16:01:48 INFO  Log - Closing browser
+2025-12-21 16:01:48 INFO  Log - Browser closed successfully
+2025-12-21 16:01:48 INFO  Log - ======================================
+2025-12-21 16:01:48 INFO  Log - TEST ENDED : Browser Setup
+2025-12-21 16:01:48 INFO  Log - ======================================
+2025-12-21 16:01:48 INFO  Log - ======================================
+2025-12-21 16:01:48 INFO  Log - TEST STARTED : Browser Setup
+2025-12-21 16:01:48 INFO  Log - ======================================
+2025-12-21 16:01:48 INFO  Log - Loading config file
+2025-12-21 16:01:48 INFO  Log - Browser selected: chrome
+2025-12-21 16:01:48 INFO  Log - Launching Chrome browser
+2025-12-21 16:01:49 INFO  Log - Maximizing browser window
+2025-12-21 16:01:49 INFO  Log - Navigating to URL: https://petstore.octoperf.com/actions/Catalog.action
+2025-12-21 16:01:50 INFO  Log - Testing the Login Module
+2025-12-21 16:01:50 INFO  Log - Click on Signin Button..
+2025-12-21 16:01:50 INFO  Log - Entering username through loggerUtil
+2025-12-21 16:01:50 INFO  Log - Entering password
+2025-12-21 16:01:50 INFO  Log - Clicking on Login Butoon
+2025-12-21 16:01:51 INFO  Log - Testing Cat Order Module
+2025-12-21 16:01:51 INFO  Log - Clicking on cat Option
+2025-12-21 16:01:51 INFO  Log - Getting the curerent Url of the website
+2025-12-21 16:01:51 INFO  Log - Validating the URl of the module by using Assert
+2025-12-21 16:01:51 INFO  Log - URL Is matched
+2025-12-21 16:01:51 INFO  Log - Clicking on Manx Cat Option
+2025-12-21 16:01:51 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:01:52 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:01:52 INFO  Log - Clicking on cat Option
+2025-12-21 16:01:52 INFO  Log - Clicking on Manx Cat Option
+2025-12-21 16:01:52 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:01:53 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:01:53 INFO  Log - Clicking on cat Option
+2025-12-21 16:01:53 INFO  Log - Clicking on Persian Cat Option
+2025-12-21 16:01:53 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:01:54 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:01:54 INFO  Log - Clicking on cat Option
+2025-12-21 16:01:54 INFO  Log - Clicking on Persian Cat Option
+2025-12-21 16:01:55 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:01:55 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:01:55 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 16:01:55 INFO  Log - Cat Module is completed Here
+2025-12-21 16:01:55 INFO  Log - Closing browser
+2025-12-21 16:01:55 INFO  Log - Browser closed successfully
+2025-12-21 16:01:55 INFO  Log - ======================================
+2025-12-21 16:01:55 INFO  Log - TEST ENDED : Browser Setup
+2025-12-21 16:01:55 INFO  Log - ======================================
+2025-12-21 16:15:39 INFO  Log - ======================================
+2025-12-21 16:15:39 INFO  Log - TEST STARTED : Browser Setup
+2025-12-21 16:15:39 INFO  Log - ======================================
+2025-12-21 16:15:39 INFO  Log - Loading config file
+2025-12-21 16:15:39 INFO  Log - Browser selected: chrome
+2025-12-21 16:15:39 INFO  Log - Launching Chrome browser
+2025-12-21 16:15:41 INFO  Log - Maximizing browser window
+2025-12-21 16:15:41 INFO  Log - Navigating to URL: https://petstore.octoperf.com/actions/Catalog.action
+2025-12-21 16:15:42 INFO  Log - Testing the Login Module
+2025-12-21 16:15:42 INFO  Log - Click on Signin Button..
+2025-12-21 16:15:43 INFO  Log - Entering username through loggerUtil
+2025-12-21 16:15:43 INFO  Log - Entering password
+2025-12-21 16:15:43 INFO  Log - Clicking on Login Butoon
+2025-12-21 16:15:43 INFO  Log - Testing Dog Order Module
+2025-12-21 16:15:43 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-21 16:15:44 INFO  Log - Getting the curerent Url of the website
+2025-12-21 16:15:44 INFO  Log - Validating the URl of the module by using Assert
+2025-12-21 16:15:44 INFO  Log - URL Is matched
+2025-12-21 16:15:44 INFO  Log - Clicking on Bull Dog Option
+2025-12-21 16:15:44 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:15:44 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:15:44 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 16:15:45 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-21 16:15:45 INFO  Log - Clicking on Poodle Dog Option
+2025-12-21 16:15:45 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:15:46 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:15:46 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 16:15:46 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-21 16:15:47 INFO  Log - Clicking on Dalmation Dog Option
+2025-12-21 16:15:47 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:15:47 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:15:47 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 16:15:48 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-21 16:15:48 INFO  Log - Clicking on Golden Retreiver Dog Option
+2025-12-21 16:15:48 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:15:49 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:15:49 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 16:15:49 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-21 16:15:50 INFO  Log - Clicking on Labrador Dog Option
+2025-12-21 16:15:50 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:15:50 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:15:50 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 16:15:51 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-21 16:15:51 INFO  Log - Clicking on Chihuahua Dog Option
+2025-12-21 16:15:51 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:15:52 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:15:52 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 16:15:52 INFO  Log - Dog Module is completed here
+2025-12-21 16:15:52 INFO  Log - Bird Module is Starting here
+2025-12-21 16:15:52 INFO  Log - Clicking on Birds
+2025-12-21 16:15:53 INFO  Log - Getting Current URL of the Birds website
+2025-12-21 16:15:53 INFO  Log - Validating the URL of Birds page by using Assertion 
+2025-12-21 16:15:53 INFO  Log - Clicking On Amazon Parrot Link to order That
+2025-12-21 16:15:53 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:15:53 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:15:54 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 16:15:54 INFO  Log - Again Clicking on Bird to Order
+2025-12-21 16:15:54 INFO  Log - Clicking on finch Bird Option
+2025-12-21 16:15:54 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:15:55 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:15:55 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 16:15:55 INFO  Log - Bird Module is Completed Here
+2025-12-21 16:15:55 INFO  Log - Testing the Fish Order Module
+2025-12-21 16:15:55 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-21 16:15:56 INFO  Log - Getting the curerent Url of the website
+2025-12-21 16:15:56 INFO  Log - Validating the URl of the module by using Assert
+2025-12-21 16:15:56 INFO  Log - URL Is matched
+2025-12-21 16:15:56 INFO  Log - Clicking on A-FISH Option
+2025-12-21 16:15:56 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:15:56 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:15:57 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-21 16:15:57 INFO  Log - Clicking on A-FISH Option
+2025-12-21 16:15:57 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:15:57 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:15:58 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-21 16:15:58 INFO  Log - Clicking on Tiger Shark Option
+2025-12-21 16:15:58 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:15:59 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:15:59 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-21 16:15:59 INFO  Log - Clicking on KOI-FISH Option
+2025-12-21 16:15:59 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:16:00 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:16:00 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-21 16:16:00 INFO  Log - Clicking on KOI-FISH Option
+2025-12-21 16:16:01 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:16:01 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:16:01 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-21 16:16:02 INFO  Log - Clicking on Golden FISH Option
+2025-12-21 16:16:02 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:16:02 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:16:02 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-21 16:16:03 INFO  Log - Clicking on Golden FISH Option
+2025-12-21 16:16:03 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:16:03 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:16:04 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 16:16:04 INFO  Log - Fish Order Module is completed Here
+2025-12-21 16:16:04 INFO  Log - Testing the reptiles order module
+2025-12-21 16:16:04 INFO  Log - Clicking on Reptile option
+2025-12-21 16:16:04 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 16:16:04 INFO  Log - Validating the URl of the module by using Assert
+2025-12-21 16:16:04 INFO  Log - URL Is matched
+2025-12-21 16:16:04 INFO  Log - Clicking on Rattle snake Option
+2025-12-21 16:16:05 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:16:05 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:16:06 INFO  Log - Clicking on Igguana Option
+2025-12-21 16:16:06 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:16:06 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:16:07 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 16:16:07 INFO  Log - Reptiles order Module is complete here
+2025-12-21 16:16:07 INFO  Log - Testing Cat Order Module
+2025-12-21 16:16:07 INFO  Log - Clicking on cat Option
+2025-12-21 16:16:07 INFO  Log - Getting the curerent Url of the website
+2025-12-21 16:16:07 INFO  Log - Validating the URl of the module by using Assert
+2025-12-21 16:16:07 INFO  Log - URL Is matched
+2025-12-21 16:16:07 INFO  Log - Clicking on Manx Cat Option
+2025-12-21 16:16:08 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:16:08 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:16:08 INFO  Log - Clicking on cat Option
+2025-12-21 16:16:08 INFO  Log - Clicking on Manx Cat Option
+2025-12-21 16:16:09 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:16:09 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:16:09 INFO  Log - Clicking on cat Option
+2025-12-21 16:16:10 INFO  Log - Clicking on Persian Cat Option
+2025-12-21 16:16:10 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:16:10 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:16:11 INFO  Log - Clicking on cat Option
+2025-12-21 16:16:11 INFO  Log - Clicking on Persian Cat Option
+2025-12-21 16:16:11 INFO  Log - Clicking on Add to cart Option
+2025-12-21 16:16:11 INFO  Log - Clicking on update to update the cart
+2025-12-21 16:16:12 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-21 16:16:12 INFO  Log - Cat Module is completed Here
+2025-12-21 16:16:14 INFO  Log - Closing browser
+2025-12-21 16:16:15 INFO  Log - Browser closed successfully
+2025-12-21 16:16:15 INFO  Log - ======================================
+2025-12-21 16:16:15 INFO  Log - TEST ENDED : Browser Setup
+2025-12-21 16:16:15 INFO  Log - ======================================
+2025-12-26 15:42:52 INFO  Log - ======================================
+2025-12-26 15:42:52 INFO  Log - TEST STARTED : Browser Setup
+2025-12-26 15:42:52 INFO  Log - ======================================
+2025-12-26 15:42:52 INFO  Log - Loading config file
+2025-12-26 15:42:52 INFO  Log - Browser selected: chrome
+2025-12-26 15:42:53 INFO  Log - Launching Chrome browser
+2025-12-26 15:42:55 INFO  Log - Maximizing browser window
+2025-12-26 15:42:55 INFO  Log - Navigating to URL: https://petstore.octoperf.com/actions/Catalog.action
+2025-12-26 15:42:56 INFO  Log - Testing the Registration Module
+2025-12-26 15:42:56 INFO  Log - Clicking on signin Button
+2025-12-26 15:42:56 INFO  Log - Clicking on register button
+2025-12-26 15:42:56 INFO  Log - Sending the Usename as Rohit in username textbox
+2025-12-26 15:42:56 INFO  Log - Sending the Password as admin123 in RepeatPassword Textbox
+2025-12-26 15:42:56 INFO  Log - Sending the first name as Rohit
+2025-12-26 15:42:57 INFO  Log - Sending the last name as Kumar
+2025-12-26 15:42:57 INFO  Log - Sending the email as rohit123@gmail.com
+2025-12-26 15:42:57 INFO  Log - Sending the phone no as 893678213
+2025-12-26 15:42:57 INFO  Log - Sending the Data as Telco Colony in Address Line 1 Textbox
+2025-12-26 15:42:57 INFO  Log - Sending the Data as House no-23 in Address line 2 Textbox
+2025-12-26 15:42:57 INFO  Log - Sending the data as Jamshedpur in city Textbox
+2025-12-26 15:42:57 INFO  Log - Sending the Data as Jharkhand in State Textbox
+2025-12-26 15:42:57 INFO  Log - Sending the value as 867881 in Zipcode Textbox
+2025-12-26 15:42:57 INFO  Log - Sending the Country as India in Country Textbox
+2025-12-26 15:42:57 INFO  Log - Clicking on submit button
+2025-12-26 15:42:58 INFO  Log - Closing browser
+2025-12-26 15:42:58 INFO  Log - Browser closed successfully
+2025-12-26 15:42:58 INFO  Log - ======================================
+2025-12-26 15:42:58 INFO  Log - TEST ENDED : Browser Setup
+2025-12-26 15:42:58 INFO  Log - ======================================
+2025-12-26 15:42:58 INFO  Log - ======================================
+2025-12-26 15:42:58 INFO  Log - TEST STARTED : Browser Setup
+2025-12-26 15:42:58 INFO  Log - ======================================
+2025-12-26 15:42:58 INFO  Log - Loading config file
+2025-12-26 15:42:58 INFO  Log - Browser selected: chrome
+2025-12-26 15:42:58 INFO  Log - Launching Chrome browser
+2025-12-26 15:42:59 INFO  Log - Maximizing browser window
+2025-12-26 15:42:59 INFO  Log - Navigating to URL: https://petstore.octoperf.com/actions/Catalog.action
+2025-12-26 15:43:00 INFO  Log - Testing the Login Module
+2025-12-26 15:43:00 INFO  Log - Click on Signin Button..
+2025-12-26 15:43:00 INFO  Log - Entering username through loggerUtil
+2025-12-26 15:43:00 INFO  Log - Entering password
+2025-12-26 15:43:00 INFO  Log - Clicking on Login Butoon
+2025-12-26 15:43:01 INFO  Log - Testing Dog Order Module
+2025-12-26 15:43:01 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-26 15:43:01 INFO  Log - Getting the curerent Url of the website
+2025-12-26 15:43:01 INFO  Log - Validating the URl of the module by using Assert
+2025-12-26 15:43:01 INFO  Log - URL Is matched
+2025-12-26 15:43:01 INFO  Log - Clicking on Bull Dog Option
+2025-12-26 15:43:01 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:02 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:43:02 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-26 15:43:02 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-26 15:43:02 INFO  Log - Clicking on Poodle Dog Option
+2025-12-26 15:43:03 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:03 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:43:03 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-26 15:43:04 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-26 15:43:04 INFO  Log - Clicking on Dalmation Dog Option
+2025-12-26 15:43:04 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:04 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:43:05 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-26 15:43:05 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-26 15:43:05 INFO  Log - Clicking on Golden Retreiver Dog Option
+2025-12-26 15:43:05 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:06 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:43:06 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-26 15:43:06 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-26 15:43:07 INFO  Log - Clicking on Labrador Dog Option
+2025-12-26 15:43:07 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:07 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:43:07 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-26 15:43:08 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-26 15:43:08 INFO  Log - Clicking on Chihuahua Dog Option
+2025-12-26 15:43:08 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:08 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:43:09 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-26 15:43:09 INFO  Log - Dog Module is completed here
+2025-12-26 15:43:09 INFO  Log - Closing browser
+2025-12-26 15:43:09 INFO  Log - Browser closed successfully
+2025-12-26 15:43:09 INFO  Log - ======================================
+2025-12-26 15:43:09 INFO  Log - TEST ENDED : Browser Setup
+2025-12-26 15:43:09 INFO  Log - ======================================
+2025-12-26 15:43:09 INFO  Log - ======================================
+2025-12-26 15:43:09 INFO  Log - TEST STARTED : Browser Setup
+2025-12-26 15:43:09 INFO  Log - ======================================
+2025-12-26 15:43:09 INFO  Log - Loading config file
+2025-12-26 15:43:09 INFO  Log - Browser selected: chrome
+2025-12-26 15:43:09 INFO  Log - Launching Chrome browser
+2025-12-26 15:43:10 INFO  Log - Maximizing browser window
+2025-12-26 15:43:10 INFO  Log - Navigating to URL: https://petstore.octoperf.com/actions/Catalog.action
+2025-12-26 15:43:11 INFO  Log - Testing the Login Module
+2025-12-26 15:43:11 INFO  Log - Click on Signin Button..
+2025-12-26 15:43:12 INFO  Log - Entering username through loggerUtil
+2025-12-26 15:43:12 INFO  Log - Entering password
+2025-12-26 15:43:12 INFO  Log - Clicking on Login Butoon
+2025-12-26 15:43:12 INFO  Log - Bird Module is Starting here
+2025-12-26 15:43:12 INFO  Log - Clicking on Birds
+2025-12-26 15:43:12 INFO  Log - Getting Current URL of the Birds website
+2025-12-26 15:43:12 INFO  Log - Validating the URL of Birds page by using Assertion 
+2025-12-26 15:43:12 INFO  Log - Clicking On Amazon Parrot Link to order That
+2025-12-26 15:43:13 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:13 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:43:13 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-26 15:43:14 INFO  Log - Again Clicking on Bird to Order
+2025-12-26 15:43:14 INFO  Log - Clicking on finch Bird Option
+2025-12-26 15:43:14 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:14 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:43:15 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-26 15:43:15 INFO  Log - Bird Module is Completed Here
+2025-12-26 15:43:15 INFO  Log - Closing browser
+2025-12-26 15:43:15 INFO  Log - Browser closed successfully
+2025-12-26 15:43:15 INFO  Log - ======================================
+2025-12-26 15:43:15 INFO  Log - TEST ENDED : Browser Setup
+2025-12-26 15:43:15 INFO  Log - ======================================
+2025-12-26 15:43:15 INFO  Log - ======================================
+2025-12-26 15:43:15 INFO  Log - TEST STARTED : Browser Setup
+2025-12-26 15:43:15 INFO  Log - ======================================
+2025-12-26 15:43:15 INFO  Log - Loading config file
+2025-12-26 15:43:15 INFO  Log - Browser selected: chrome
+2025-12-26 15:43:15 INFO  Log - Launching Chrome browser
+2025-12-26 15:43:16 INFO  Log - Maximizing browser window
+2025-12-26 15:43:16 INFO  Log - Navigating to URL: https://petstore.octoperf.com/actions/Catalog.action
+2025-12-26 15:43:17 INFO  Log - Testing the Login Module
+2025-12-26 15:43:17 INFO  Log - Click on Signin Button..
+2025-12-26 15:43:17 INFO  Log - Entering username through loggerUtil
+2025-12-26 15:43:18 INFO  Log - Entering password
+2025-12-26 15:43:18 INFO  Log - Clicking on Login Butoon
+2025-12-26 15:43:18 INFO  Log - Testing the Fish Order Module
+2025-12-26 15:43:18 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-26 15:43:18 INFO  Log - Getting the curerent Url of the website
+2025-12-26 15:43:18 INFO  Log - Validating the URl of the module by using Assert
+2025-12-26 15:43:18 INFO  Log - URL Is matched
+2025-12-26 15:43:18 INFO  Log - Clicking on A-FISH Option
+2025-12-26 15:43:19 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:19 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:43:19 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-26 15:43:20 INFO  Log - Clicking on A-FISH Option
+2025-12-26 15:43:20 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:20 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:43:20 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-26 15:43:21 INFO  Log - Clicking on Tiger Shark Option
+2025-12-26 15:43:21 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:21 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:43:21 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-26 15:43:22 INFO  Log - Clicking on KOI-FISH Option
+2025-12-26 15:43:22 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:22 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:43:23 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-26 15:43:23 INFO  Log - Clicking on KOI-FISH Option
+2025-12-26 15:43:23 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:23 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:43:24 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-26 15:43:24 INFO  Log - Clicking on Golden FISH Option
+2025-12-26 15:43:24 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:25 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:43:25 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-26 15:43:25 INFO  Log - Clicking on Golden FISH Option
+2025-12-26 15:43:25 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:26 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:43:26 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-26 15:43:26 INFO  Log - Fish Order Module is completed Here
+2025-12-26 15:43:26 INFO  Log - Closing browser
+2025-12-26 15:43:26 INFO  Log - Browser closed successfully
+2025-12-26 15:43:26 INFO  Log - ======================================
+2025-12-26 15:43:26 INFO  Log - TEST ENDED : Browser Setup
+2025-12-26 15:43:26 INFO  Log - ======================================
+2025-12-26 15:43:26 INFO  Log - ======================================
+2025-12-26 15:43:26 INFO  Log - TEST STARTED : Browser Setup
+2025-12-26 15:43:26 INFO  Log - ======================================
+2025-12-26 15:43:26 INFO  Log - Loading config file
+2025-12-26 15:43:26 INFO  Log - Browser selected: chrome
+2025-12-26 15:43:26 INFO  Log - Launching Chrome browser
+2025-12-26 15:43:27 INFO  Log - Maximizing browser window
+2025-12-26 15:43:27 INFO  Log - Navigating to URL: https://petstore.octoperf.com/actions/Catalog.action
+2025-12-26 15:43:28 INFO  Log - Testing the Login Module
+2025-12-26 15:43:28 INFO  Log - Click on Signin Button..
+2025-12-26 15:43:29 INFO  Log - Entering username through loggerUtil
+2025-12-26 15:43:29 INFO  Log - Entering password
+2025-12-26 15:43:29 INFO  Log - Clicking on Login Butoon
+2025-12-26 15:43:29 INFO  Log - Testing the reptiles order module
+2025-12-26 15:43:29 INFO  Log - Clicking on Reptile option
+2025-12-26 15:43:30 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-26 15:43:30 INFO  Log - Validating the URl of the module by using Assert
+2025-12-26 15:43:30 INFO  Log - URL Is matched
+2025-12-26 15:43:30 INFO  Log - Clicking on Rattle snake Option
+2025-12-26 15:43:30 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:30 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:43:31 INFO  Log - Clicking on Igguana Option
+2025-12-26 15:43:31 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:32 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:43:32 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-26 15:43:32 INFO  Log - Reptiles order Module is complete here
+2025-12-26 15:43:32 INFO  Log - Closing browser
+2025-12-26 15:43:32 INFO  Log - Browser closed successfully
+2025-12-26 15:43:32 INFO  Log - ======================================
+2025-12-26 15:43:32 INFO  Log - TEST ENDED : Browser Setup
+2025-12-26 15:43:32 INFO  Log - ======================================
+2025-12-26 15:43:32 INFO  Log - ======================================
+2025-12-26 15:43:32 INFO  Log - TEST STARTED : Browser Setup
+2025-12-26 15:43:32 INFO  Log - ======================================
+2025-12-26 15:43:32 INFO  Log - Loading config file
+2025-12-26 15:43:32 INFO  Log - Browser selected: chrome
+2025-12-26 15:43:32 INFO  Log - Launching Chrome browser
+2025-12-26 15:43:33 INFO  Log - Maximizing browser window
+2025-12-26 15:43:33 INFO  Log - Navigating to URL: https://petstore.octoperf.com/actions/Catalog.action
+2025-12-26 15:43:34 INFO  Log - Testing the Login Module
+2025-12-26 15:43:34 INFO  Log - Click on Signin Button..
+2025-12-26 15:43:35 INFO  Log - Entering username through loggerUtil
+2025-12-26 15:43:35 INFO  Log - Entering password
+2025-12-26 15:43:35 INFO  Log - Clicking on Login Butoon
+2025-12-26 15:43:35 INFO  Log - Testing Dog Order Module
+2025-12-26 15:43:35 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-26 15:43:36 INFO  Log - Getting the curerent Url of the website
+2025-12-26 15:43:36 INFO  Log - Validating the URl of the module by using Assert
+2025-12-26 15:43:36 INFO  Log - URL Is matched
+2025-12-26 15:43:36 INFO  Log - Clicking on Bull Dog Option
+2025-12-26 15:43:36 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:36 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:43:36 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-26 15:43:37 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-26 15:43:37 INFO  Log - Clicking on Poodle Dog Option
+2025-12-26 15:43:37 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:37 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:43:38 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-26 15:43:38 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-26 15:43:38 INFO  Log - Clicking on Dalmation Dog Option
+2025-12-26 15:43:38 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:39 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:43:39 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-26 15:43:39 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-26 15:43:40 INFO  Log - Clicking on Golden Retreiver Dog Option
+2025-12-26 15:43:40 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:40 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:43:40 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-26 15:43:41 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-26 15:43:41 INFO  Log - Clicking on Labrador Dog Option
+2025-12-26 15:43:41 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:41 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:43:42 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-26 15:43:42 INFO  Log - Clicking on Dog Option of the homepage
+2025-12-26 15:43:42 INFO  Log - Clicking on Chihuahua Dog Option
+2025-12-26 15:43:42 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:43 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:43:43 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-26 15:43:43 INFO  Log - Dog Module is completed here
+2025-12-26 15:43:43 INFO  Log - Bird Module is Starting here
+2025-12-26 15:43:43 INFO  Log - Clicking on Birds
+2025-12-26 15:43:44 INFO  Log - Getting Current URL of the Birds website
+2025-12-26 15:43:44 INFO  Log - Validating the URL of Birds page by using Assertion 
+2025-12-26 15:43:44 INFO  Log - Clicking On Amazon Parrot Link to order That
+2025-12-26 15:43:44 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:44 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:43:44 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-26 15:43:45 INFO  Log - Again Clicking on Bird to Order
+2025-12-26 15:43:45 INFO  Log - Clicking on finch Bird Option
+2025-12-26 15:43:45 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:45 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:43:46 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-26 15:43:46 INFO  Log - Bird Module is Completed Here
+2025-12-26 15:43:46 INFO  Log - Testing the Fish Order Module
+2025-12-26 15:43:46 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-26 15:43:46 INFO  Log - Getting the curerent Url of the website
+2025-12-26 15:43:46 INFO  Log - Validating the URl of the module by using Assert
+2025-12-26 15:43:46 INFO  Log - URL Is matched
+2025-12-26 15:43:46 INFO  Log - Clicking on A-FISH Option
+2025-12-26 15:43:47 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:47 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:43:47 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-26 15:43:47 INFO  Log - Clicking on A-FISH Option
+2025-12-26 15:43:48 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:48 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:43:48 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-26 15:43:48 INFO  Log - Clicking on Tiger Shark Option
+2025-12-26 15:43:49 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:49 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:43:49 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-26 15:43:49 INFO  Log - Clicking on KOI-FISH Option
+2025-12-26 15:43:50 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:50 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:43:50 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-26 15:43:51 INFO  Log - Clicking on KOI-FISH Option
+2025-12-26 15:43:51 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:51 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:43:51 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-26 15:43:52 INFO  Log - Clicking on Golden FISH Option
+2025-12-26 15:43:52 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:52 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:43:52 INFO  Log - Clicking on Fish Option of the homepage
+2025-12-26 15:43:53 INFO  Log - Clicking on Golden FISH Option
+2025-12-26 15:43:53 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:53 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:43:53 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-26 15:43:54 INFO  Log - Fish Order Module is completed Here
+2025-12-26 15:43:54 INFO  Log - Testing the reptiles order module
+2025-12-26 15:43:54 INFO  Log - Clicking on Reptile option
+2025-12-26 15:43:54 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-26 15:43:54 INFO  Log - Validating the URl of the module by using Assert
+2025-12-26 15:43:54 INFO  Log - URL Is matched
+2025-12-26 15:43:54 INFO  Log - Clicking on Rattle snake Option
+2025-12-26 15:43:54 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:55 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:43:55 INFO  Log - Clicking on Igguana Option
+2025-12-26 15:43:56 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:56 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:43:56 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-26 15:43:56 INFO  Log - Reptiles order Module is complete here
+2025-12-26 15:43:56 INFO  Log - Testing Cat Order Module
+2025-12-26 15:43:56 INFO  Log - Clicking on cat Option
+2025-12-26 15:43:57 INFO  Log - Getting the curerent Url of the website
+2025-12-26 15:43:57 INFO  Log - Validating the URl of the module by using Assert
+2025-12-26 15:43:57 INFO  Log - URL Is matched
+2025-12-26 15:43:57 INFO  Log - Clicking on Manx Cat Option
+2025-12-26 15:43:57 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:57 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:43:57 INFO  Log - Clicking on cat Option
+2025-12-26 15:43:58 INFO  Log - Clicking on Manx Cat Option
+2025-12-26 15:43:58 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:58 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:43:58 INFO  Log - Clicking on cat Option
+2025-12-26 15:43:59 INFO  Log - Clicking on Persian Cat Option
+2025-12-26 15:43:59 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:43:59 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:44:00 INFO  Log - Clicking on cat Option
+2025-12-26 15:44:00 INFO  Log - Clicking on Persian Cat Option
+2025-12-26 15:44:00 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:44:00 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:44:01 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-26 15:44:01 INFO  Log - Cat Module is completed Here
+2025-12-26 15:44:03 INFO  Log - Closing browser
+2025-12-26 15:44:03 INFO  Log - Browser closed successfully
+2025-12-26 15:44:03 INFO  Log - ======================================
+2025-12-26 15:44:03 INFO  Log - TEST ENDED : Browser Setup
+2025-12-26 15:44:03 INFO  Log - ======================================
+2025-12-26 15:44:03 INFO  Log - ======================================
+2025-12-26 15:44:03 INFO  Log - TEST STARTED : Browser Setup
+2025-12-26 15:44:03 INFO  Log - ======================================
+2025-12-26 15:44:03 INFO  Log - Loading config file
+2025-12-26 15:44:03 INFO  Log - Browser selected: chrome
+2025-12-26 15:44:03 INFO  Log - Launching Chrome browser
+2025-12-26 15:44:04 INFO  Log - Maximizing browser window
+2025-12-26 15:44:04 INFO  Log - Navigating to URL: https://petstore.octoperf.com/actions/Catalog.action
+2025-12-26 15:44:05 INFO  Log - ======================================
+2025-12-26 15:44:05 INFO  Log - TEST STARTED : Login Test
+2025-12-26 15:44:05 INFO  Log - ======================================
+2025-12-26 15:44:05 INFO  Log - Test case Started
+2025-12-26 15:44:05 INFO  Log - Testing the Login Module
+2025-12-26 15:44:05 INFO  Log - Click on Signin Button..
+2025-12-26 15:44:05 INFO  Log - Entering username through loggerUtil
+2025-12-26 15:44:06 INFO  Log - Entering password
+2025-12-26 15:44:06 INFO  Log - Clicking on Login Butoon
+2025-12-26 15:44:06 INFO  Log - ======================================
+2025-12-26 15:44:06 INFO  Log - TEST ENDED : Login test ends here..
+2025-12-26 15:44:06 INFO  Log - ======================================
+2025-12-26 15:44:06 INFO  Log - Closing browser
+2025-12-26 15:44:06 INFO  Log - Browser closed successfully
+2025-12-26 15:44:06 INFO  Log - ======================================
+2025-12-26 15:44:06 INFO  Log - TEST ENDED : Browser Setup
+2025-12-26 15:44:06 INFO  Log - ======================================
+2025-12-26 15:44:06 INFO  Log - ======================================
+2025-12-26 15:44:06 INFO  Log - TEST STARTED : Browser Setup
+2025-12-26 15:44:06 INFO  Log - ======================================
+2025-12-26 15:44:06 INFO  Log - Loading config file
+2025-12-26 15:44:06 INFO  Log - Browser selected: chrome
+2025-12-26 15:44:06 INFO  Log - Launching Chrome browser
+2025-12-26 15:44:07 INFO  Log - Maximizing browser window
+2025-12-26 15:44:07 INFO  Log - Navigating to URL: https://petstore.octoperf.com/actions/Catalog.action
+2025-12-26 15:44:08 INFO  Log - Testing the Login Module
+2025-12-26 15:44:08 INFO  Log - Click on Signin Button..
+2025-12-26 15:44:09 INFO  Log - Entering username through loggerUtil
+2025-12-26 15:44:09 INFO  Log - Entering password
+2025-12-26 15:44:09 INFO  Log - Clicking on Login Butoon
+2025-12-26 15:44:09 INFO  Log - Testing Cat Order Module
+2025-12-26 15:44:09 INFO  Log - Clicking on cat Option
+2025-12-26 15:44:10 INFO  Log - Getting the curerent Url of the website
+2025-12-26 15:44:10 INFO  Log - Validating the URl of the module by using Assert
+2025-12-26 15:44:10 INFO  Log - URL Is matched
+2025-12-26 15:44:10 INFO  Log - Clicking on Manx Cat Option
+2025-12-26 15:44:10 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:44:10 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:44:11 INFO  Log - Clicking on cat Option
+2025-12-26 15:44:11 INFO  Log - Clicking on Manx Cat Option
+2025-12-26 15:44:11 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:44:11 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:44:12 INFO  Log - Clicking on cat Option
+2025-12-26 15:44:12 INFO  Log - Clicking on Persian Cat Option
+2025-12-26 15:44:12 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:44:12 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:44:13 INFO  Log - Clicking on cat Option
+2025-12-26 15:44:13 INFO  Log - Clicking on Persian Cat Option
+2025-12-26 15:44:13 INFO  Log - Clicking on Add to cart Option
+2025-12-26 15:44:13 INFO  Log - Clicking on update to update the cart
+2025-12-26 15:44:14 INFO  Log - Clicking on return to menu to return on home page of the website
+2025-12-26 15:44:14 INFO  Log - Cat Module is completed Here
+2025-12-26 15:44:14 INFO  Log - Closing browser
+2025-12-26 15:44:14 INFO  Log - Browser closed successfully
+2025-12-26 15:44:14 INFO  Log - ======================================
+2025-12-26 15:44:14 INFO  Log - TEST ENDED : Browser Setup
+2025-12-26 15:44:14 INFO  Log - ======================================

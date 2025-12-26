@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+
+<listeners>
+        <listener class-name="com.JPetStore.Utility.ExtentTestListener"/>
+    </listeners>
+
+  <test thread-count="5" name="Testng">
+    <classes>
+      <class name="com.JPetStore.Test.BirdsOrderTest"/>
+      <class name="com.JPetStore.Test.LoginTest"/>
+      <class name="com.JPetStore.base.BaseClass"/>
+      <class name="com.JPetStore.Test.BillOrder"/>
+      <class name="com.JPetStore.Test.RegistrationTest"/>
+      <class name="com.JPetStore.Test.FishOrderTest"/>
+      <class name="com.JPetStore.Test.ReptileOrderTest"/>
+      <class name="com.JPetStore.Test.DogsOrderTests"/>
+      <class name="com.JPetStore.Test.CatsOrderTest"/>
+    </classes>
+  </test> <!-- Testng -->
+</suite> <!-- Suite -->
